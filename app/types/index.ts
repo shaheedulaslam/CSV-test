@@ -1,0 +1,9 @@
+export type SpacingVariant = 'xs' | 'sm' | 'md' | 'lg' | 'xl' | 'none';
+export type BorderVariant = 'none' | 'default' | 'strong' | 'error' | 'success';
+export type RoundedVariant = 'none' | 'sm' | 'md' | 'lg' | 'full';
+export type DirectionVariant = 'vertical' | 'horizontal';
+export type AlignmentVariant = 'start' | 'center' | 'end' | 'stretch' | 'between';
+export type ColorVariant = 'default' | 'primary' | 'secondary' | 'success' | 'warning' | 'error' | 'muted';
+export type SizeVariant = 'xs' | 'sm' | 'md' | 'lg' | 'xl';
+export type ButtonVariant = 'primary' | 'secondary' | 'outline' | 'ghost' | 'danger';
+export type TextVariant = 'h1' | 'h2' | 'h3' | 'h4' | 'h5' | 'h6' | 'body' | 'small' | 'caption';
